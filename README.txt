@@ -41,7 +41,7 @@ Files served by the server should be placed in /www
 To stop the Ladle web server:
 
 1) Open up a shell prompt
-2) Navigate to directory containing laldle.lua
+2) Navigate to directory containing ladle.lua
 3) Run "telin" script followed by port number
 
    -> E.g. "telin 80" or "./telin.sh 80"
