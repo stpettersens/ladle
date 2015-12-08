@@ -2,7 +2,7 @@
 
 08/12/2015
 
-Daniel Rampel has forked Ladle is adding support
+Daniel Rampel has forked Ladle and is adding support
 for POST requests, Lua scripting (Lua pages/scripts), etc.
 
 Please see:
