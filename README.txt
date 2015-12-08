@@ -9,8 +9,7 @@ Please see:
 
 https://github.com/danielrempel/ladle
 
-Unless you want to so something **extremely simple** with
-Ladle, I would strongly recommend that you use his fork
+I would strongly recommend that you use his fork
 rather than the original project listed here.
 
 ******************************************************************
